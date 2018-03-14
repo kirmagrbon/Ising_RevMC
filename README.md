@@ -5,10 +5,10 @@
 <head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="generator" content="Geany 1.27" />
+	<h1>Ising simulation class</h1>
 </head>
 
 <body>
-<title>Ising Simulation Class Documentation</title>
 <h1>Site Class</h1>
     <h3> site.__init__(spin): </h3>
     Initializes the site with a given spin value
