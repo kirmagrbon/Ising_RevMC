@@ -10,8 +10,7 @@
 
 <body>
 <h1>Requirements</h1>
-matplotlib
-numpy
+matplotlib, numpy
 <h1>Site Class</h1>
     <h3> site.__init__(spin): </h3>
     Initializes the site with a given spin value
